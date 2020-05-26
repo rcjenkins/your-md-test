@@ -11,6 +11,8 @@ Both of these are written in JavaScript of the following versions Node and NPM.
 
 ## API Server
 This is a simple Nodejs/Express server with a single endpoint **/conditions**
+
+The conditions.json files has been included. All images retrieved from http://assets.your.md/conditions/... have been edited to be retrieved from https://assets.your.md/conditions/
  
 To run the server on port http://localhost/4000
  
@@ -36,5 +38,6 @@ and run the server
 npm start
 ```
 This should open the browser and direct to the base URL / . A list for conditions will be displayed 
-## Limitations
+
+*I look forward to going over the solution and improvements soon.*
 
