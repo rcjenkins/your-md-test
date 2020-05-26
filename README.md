@@ -1,7 +1,7 @@
 # your-md-test
 
 ## Overview
-The test has two parts
+The solution has two parts
 * The API Server
 * The Website
 
