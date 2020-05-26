@@ -42,6 +42,7 @@ This should open the browser and direct to the base URL / . A list for condition
 ## Decisions / Compromises
 
 * No use of SSL on API server or Website
+* Limit loading of images by rendering of list items as needed e.g. using infinate scroll
 * No error page routing - react-router can be used to route to an error page if a different url is entered (currently list is always shown)
 * No tests written
   * Unit test can be written in Jest for rendering (Snapshots) and interactions
