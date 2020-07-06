@@ -49,6 +49,3 @@ This should open the browser and direct to the base URL / . A list for condition
   * End-to-end tests can be written in cucumber js (allowing use of JS a single programming language) and Selenium web driver
 * Docker containerisation
   * Use of simple Docker compose template file
-
-*I look forward to going over the solution and improvements soon.*
-
